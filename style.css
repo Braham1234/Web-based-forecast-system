@@ -1,0 +1,36 @@
+#button1 {
+    background-color: darkred;
+    color:white;
+    cursor: pointer;
+    border-radius: 10%;
+  }
+#button2{
+    background-color: blue;
+    color: white;
+    cursor: pointer;
+    border-radius: 10%;
+}
+  .button{
+    background-color: green;
+    color: black;
+    cursor: pointer;
+    border-radius: 10%;
+  }
+  .copyright {
+    color: blue;
+    font-size: 14px; 
+    cursor: pointer;
+    text-decoration: none;
+    text-align: center;
+}
+.copyright:hover {
+    color: red;
+}
+#project_title{
+    font-size: 200%;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+}
